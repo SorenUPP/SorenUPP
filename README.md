@@ -1,16 +1,14 @@
-## Hi there 👋
+# Soren Beigi
 
-<!--
-**SorenUPP/SorenUPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer
+Building production-ready backend systems and web applications.
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js · Express · React · Firebase · JWT · C# · .NET · SQL · Python . JAVA
+
+## Projects
+
+- [LaunchKit](https://github.com/SorenUPP/LaunchKit) — Production-ready auth boilerplate with JWT, Firestore, rate limiting and email — deployed on Render
+- [EnvironmentCrime](https://github.com/SorenUPP/EnvironmentCrime) — Fullstack environmental crime reporting platform built with ASP.NET Core, Razor Pages and SQL
+- [PaymentServer](https://github.com/SorenUPP/PaymentServer) — Node.js backend handling PayPal payments, Firebase Auth and Unity game entitlements
