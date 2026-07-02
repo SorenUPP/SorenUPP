@@ -21,18 +21,17 @@ Fullstack developer. Building production-ready backend systems and web applicati
 
 ### Projects
 
-**[LaunchKit]([https://github.com/SorenUPP](https://github.com/SorenUPP/LaunchKit))**
+**[LaunchKit](https://github.com/SorenUPP/LaunchKit)**  
 Production-ready auth boilerplate — JWT, Firestore, rate limiting, email. Deployed on Render.
 
-**[EnvironmentCrime]([https://github.com/SorenUPP](https://github.com/SorenUPP/EnviormentCrime))**
+**[EnvironmentCrime](https://github.com/SorenUPP/EnviormentCrime)**  
 Fullstack environmental crime reporting platform built with ASP.NET Core, Razor Pages and SQL.
 
-**[PaymentServer]([https://github.com/SorenUPP](https://github.com/SorenUPP/PaymentServer))**
+**[PaymentServer](https://github.com/SorenUPP/PaymentServer)**  
 Node.js backend handling PayPal payments, Firebase Auth and Unity game entitlements.
 
-**[GymFlow](https://github.com/SorenUPP/React-GymApp)**
+**[GymFlow](https://github.com/SorenUPP/React-GymApp)**  
 Cross-platform fitness tracking app built with React Native, Expo and TypeScript.
-
 ---
 
 <sub>Stockholm, Sweden</sub>
