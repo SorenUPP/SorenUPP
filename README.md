@@ -30,8 +30,6 @@ Fullstack environmental crime reporting platform built with ASP.NET Core, Razor 
 **[PaymentServer](https://github.com/SorenUPP/PaymentServer)**  
 Node.js backend handling PayPal payments, Firebase Auth and Unity game entitlements.
 
-**[GymFlow](https://github.com/SorenUPP/React-GymApp)**  
-Cross-platform fitness tracking app built with React Native, Expo and TypeScript.
 ---
 
 <sub>Stockholm, Sweden</sub>
